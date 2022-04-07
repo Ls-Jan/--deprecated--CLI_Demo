@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\C++(CLI)代码样例\Demo_CLI\Test_CS\bin\Debug\Test_CS.exe.config
+C:\Users\Administrator\Desktop\C++(CLI)代码样例\Demo_CLI\Test_CS\bin\Debug\Test_CS.exe
+C:\Users\Administrator\Desktop\C++(CLI)代码样例\Demo_CLI\Test_CS\bin\Debug\Test_CS.pdb
+C:\Users\Administrator\Desktop\C++(CLI)代码样例\Demo_CLI\Test_CS\bin\Debug\Test.dll
+C:\Users\Administrator\Desktop\C++(CLI)代码样例\Demo_CLI\Test_CS\bin\Debug\Test.pdb
+C:\Users\Administrator\Desktop\C++(CLI)代码样例\Demo_CLI\Test_CS\obj\Debug\Test_CS.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\C++(CLI)代码样例\Demo_CLI\Test_CS\obj\Debug\Test_CS.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C++(CLI)代码样例\Demo_CLI\Test_CS\obj\Debug\Test_CS.csproj.CopyComplete
+C:\Users\Administrator\Desktop\C++(CLI)代码样例\Demo_CLI\Test_CS\obj\Debug\Test_CS.exe
+C:\Users\Administrator\Desktop\C++(CLI)代码样例\Demo_CLI\Test_CS\obj\Debug\Test_CS.pdb
