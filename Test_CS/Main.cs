@@ -4,6 +4,7 @@ using System.Collections.Generic;
 
 public class Program {
     static void Main(string[] args) {
+        
         Controller ctr = new Controller();
         ctr.XJ_AddString("A");
         ctr.XJ_AddString("AB");

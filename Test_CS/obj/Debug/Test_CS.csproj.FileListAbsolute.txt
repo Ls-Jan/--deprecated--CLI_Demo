@@ -8,3 +8,13 @@ C:\Users\Administrator\Desktop\C++(CLI)代码样例\Demo_CLI\Test_CS\obj\Debug\T
 C:\Users\Administrator\Desktop\C++(CLI)代码样例\Demo_CLI\Test_CS\obj\Debug\Test_CS.csproj.CopyComplete
 C:\Users\Administrator\Desktop\C++(CLI)代码样例\Demo_CLI\Test_CS\obj\Debug\Test_CS.exe
 C:\Users\Administrator\Desktop\C++(CLI)代码样例\Demo_CLI\Test_CS\obj\Debug\Test_CS.pdb
+F:\Github_Repository\C++\CLI_Demo\Test_CS\obj\Debug\Test_CS.csproj.AssemblyReference.cache
+F:\Github_Repository\C++\CLI_Demo\Test_CS\obj\Debug\Test_CS.csproj.CoreCompileInputs.cache
+F:\Github_Repository\C++\CLI_Demo\Test_CS\obj\Debug\Test_CS.exe
+F:\Github_Repository\C++\CLI_Demo\Test_CS\obj\Debug\Test_CS.pdb
+F:\Github_Repository\C++\CLI_Demo\Test_CS\bin\Debug\Test_CS.exe.config
+F:\Github_Repository\C++\CLI_Demo\Test_CS\bin\Debug\Test_CS.exe
+F:\Github_Repository\C++\CLI_Demo\Test_CS\bin\Debug\Test_CS.pdb
+F:\Github_Repository\C++\CLI_Demo\Test_CS\bin\Debug\Test.dll
+F:\Github_Repository\C++\CLI_Demo\Test_CS\bin\Debug\Test.pdb
+F:\Github_Repository\C++\CLI_Demo\Test_CS\obj\Debug\Test_CS.csproj.CopyComplete

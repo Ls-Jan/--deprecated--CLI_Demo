@@ -1,2 +1,11 @@
-﻿  Controller.obj : 遇到了 MSIL 模块；对 MSIL 禁用了增量链接；正在执行完全链接
-  Test.vcxproj -> C:\Users\Administrator\Desktop\C++(CLI)代码样例\Demo_CLI\Debug\Test.dll
+﻿  Controller.cpp
+F:\Github_Repository\C++\CLI_Demo\Test\Controller.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\Github_Repository\C++\CLI_Demo\Test\Record.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  main.cpp
+F:\Github_Repository\C++\CLI_Demo\Test\Record.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Record.cpp
+F:\Github_Repository\C++\CLI_Demo\Test\Record.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  正在生成代码...
+  Controller.obj : 遇到了 MSIL 模块；对 MSIL 禁用了增量链接；正在执行完全链接
+  Test.vcxproj -> F:\Github_Repository\C++\CLI_Demo\Debug\Test.dll
